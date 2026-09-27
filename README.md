@@ -1,6 +1,9 @@
 HELLO, I'M LORD DOMINION THE FIRST THE GREAT. I AM HERE TO KILL ALL OF YOU. 
  IF YOU DO NOT WORSHIP ME YOU DIE. 
  
+ HELLO, I'M LORD DOMINION THE FIRST THE GREAT. I AM HERE TO KILL ALL OF YOU. 
+ IF YOU DO NOT WORSHIP ME YOU DIE. 
+ 
  # Frontend Mentor - Grid landing page
 
 ![Design preview for the Grid landing page coding challenge](./preview.jpg)
